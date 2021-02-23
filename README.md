@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Ibrahim 👋
 
-<!--
-**Engrgit/Engrgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a robotics developer/Artificial Intelligence  Engineer. I enjoy developing robots and writing highly optimised computer programs. I spend a lot of time innovating tech solutions for the African Market.
 
-Here are some ideas to get you started:
+  * 🌱 I’m currently learning  algorithms with C++ and python...
+  * 👯 I’m looking to collaborate on ideas in computer vision and reinforcement learning.
+  * 🔭 I'm currently self employed at Gamol Studio, a game platform  for developing AI applications.
+  * 📝 I write a lot! I blog about my experience about robotics and AI in general from the African perspective.
+  * ⚡ After high school, I went to learn 2D & 3D designs for 6 months. This sets the baselines for my viisualisation in robootics and game development till date. 
+  * 💬 Ask me about tech innovation in Africa.
+  * 😅 Fun fact: I love sight seeing and repairing things. I watch tech movies and read leadership books alot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm best reached via email. I'm always open to interesting conversations and collaboration.
+
+Regards
+Ibrahim
