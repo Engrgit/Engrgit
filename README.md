@@ -1,4 +1,5 @@
-### Hi, I'm Ibrahim 👋
+### 👀
+## Hi, I'm Ibrahim 👋
 
 I'm a robotics developer/Artificial Intelligence Engineer. I enjoy developing robots and writing highly optimised computer programs. I spend a lot of time innovating tech solutions for the African Market.
 
