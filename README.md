@@ -13,4 +13,3 @@ I'm a robotics developer/Artificial Intelligence  Engineer. I enjoy developing r
 I'm best reached via email. I'm always open to interesting conversations and collaboration.
 
 Regards
-Ibrahim
