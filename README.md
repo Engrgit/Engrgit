@@ -10,6 +10,6 @@ I'm a robotics developer/Artificial Intelligence Engineer. I enjoy developing ro
   * 🌍 Ask me about tech innovation in Africa.
   * 😎  Fun fact: I love sight seeing. I watch tech movies a lot and enjoy reading leadership books.
 
-I'm best reached via email and @Engrgit on all Socials. I'm always open to interesting conversations and collaboration.
+I'm best reached via email and @Engrgit on all socials. I'm always open to interesting conversations and collaboration.
 
 Regards
