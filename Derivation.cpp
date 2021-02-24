@@ -11,6 +11,8 @@
              "Gunesin" = "Gesin" = climb an horse */
 
 
+#include <iostream>
+
 void assumptions()
 {
 
