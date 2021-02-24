@@ -1,6 +1,6 @@
 ### Hi, I'm Ibrahim 👋
 
-I'm a robotics developer/Artificial Intelligence Engineer. I enjoy developing robots and writing highly optimised computer programs. I spend a lot of time innovating tech solutions for the African Market.
+I'm a [robotics developer/Artificial Intelligence Engineer](https://docs.google.com/presentation/d/1UaaQuMQd2msDRlxLd7GH1EQkJZzcQxlcYOMyBRWk1wY/edit?usp=sharing). I enjoy developing robots and writing highly optimised computer programs. I spend a lot of time innovating tech solutions for the African Market.
 
   * 🌱 I’m currently learning  algorithms with C++ and python.
   * 🤝 I’m looking to collaborate on ideas in computer vision and reinforcement learning.
