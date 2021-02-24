@@ -1,19 +1,14 @@
 # Derivation of Engrgit
-```
+/*
  $         My surname is Gbadegesin. It is a royal name in Yoruba land which literally means "to take the crown and climb a horse". 
  $         In the olden days the best form of  transportation is via horses. Anybody that can take the crown and climb a horse must be a powerful ruler.
-
  $            "Gbe" = Take
  $            "Ade" = Crown
  $            "Gunesin" = Climb an horse
-
  $            "Gbeadegunesin" = "Gbadegesin"       //due to short form abbreviation of words for quick pronunciation. 
- $         Hence,
  $            "Gunesin" = "Gesin" = climb an horse 
-```
 
-
-###
+*/
 
 #include <iostream>
 
