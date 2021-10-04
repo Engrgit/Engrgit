@@ -1,6 +1,6 @@
 ### Hi, I'm Ibrahim 👋
 
-I'm an [Artificial Intelligence Engineer](https://docs.google.com/presentation/d/1UaaQuMQd2msDRlxLd7GH1EQkJZzcQxlcYOMyBRWk1wY/edit?usp=sharing). I enjoy developing robots and writing highly optimised computer programs. I spend a lot of time innovating tech solutions for the African Market.
+I'm an [Artificial Intelligence Engineer](https://docs.google.com/presentation/d/1UaaQuMQd2msDRlxLd7GH1EQkJZzcQxlcYOMyBRWk1wY/edit?usp=sharing). I also enjoy developing robots and writing highly optimised computer programs. I spend a lot of time innovating tech solutions for the African Market.
 
   * 🤝 I collaborate on ideas in computer vision and reinforcement learning.
   * ✨ I serve as a visioner at Gamol Studio, a game platform  for developing AI applications in Africa.
