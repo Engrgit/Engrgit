@@ -1,6 +1,6 @@
 ### Hi, I'm Ibrahim 👋
 
-My mission is to keep developing machine learning solutions for humanity. Interested but not limited to problems in computer vision and reinforcement learning. In love with C++ and fast implementation with python. My heart is tech and my path is ML. Any problem that crosses my path through my heart, I solve wholeheartedly.
+Currently on a mission of advancing humanity with machine learning solutions. Interested but not limited to problems in computer vision and reinforcement learning. In love with C++ and fast implementation with python. My heart is tech and my path is ML. Any problem that crosses my path through my heart, I solve wholeheartedly.
 
   * 🤝 I collaborate on ideas in computer vision and reinforcement learning.
   * ✨ I serve as a visioner at Gamol Studio, a game platform  for developing AI applications in Africa.
