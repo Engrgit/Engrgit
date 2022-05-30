@@ -1,7 +1,7 @@
 ### Hi, I'm Ibrahim 👋
  
   * 🤝 I collaborate on ideas in computer vision and reinforcement learning.
-  * ✨ I serve as a visioner at Gamol Studio, a game platform  for developing AI applications in Africa.
+  * ✨ I serve as Director of AI and Innovations at Gamol Studio, a platform for developing AI applications in Africa.
   * ✍ I [blog](https://ibrahimgbadegesin.blogspot.com/) about my experience about robotics and AI in general from the African perspective.
   * 🌍 Ask me about tech innovation in Africa.
   * 😎 Fun fact: I love fussing my culture into my tech solutions. 🤔my repo names are yoruba driven ☺
