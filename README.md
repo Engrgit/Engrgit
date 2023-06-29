@@ -1,6 +1,6 @@
 ### Hi, I'm Ibrahim 👋
  
-  * ✨ I work as an AI Engineer at [Gamol Studio](http://gamolstudio.com/), a platform for developing AI applications in Africa.
+  * ✨ I lead Innovations at [Gamol Studio](http://gamolstudio.com/).
   * 🤝 I collaborate on ideas in computer vision and reinforcement learning.
   * ✍ I [blog](https://ibrahimgbadegesin.blogspot.com/) about my experience about AI and tech innovation from African.
   * 🌍 Ask me about tech innovation in Africa.
