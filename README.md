@@ -1,8 +1,8 @@
 ### Hi, I'm Ibrahim 👋
  
-  * ✨ I lead Innovations and research at [Gamol Studio](http://gamolstudio.com/).
+  * ✨ I lead AI and Innovations at [Gamol Studio](http://gamolstudio.com/).
   * ✍ Documentaing my Tech Superstar Journey [here](https://ibrahimgbadegesin.blogspot.com/).
-  * 😎 
+  * 😎 Mentoring on hardware, software and AI innovations.
 
 I'm best reached via email. I'm always open to interesting conversations and collaboration.
 
