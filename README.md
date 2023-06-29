@@ -1,4 +1,4 @@
-### Hi, I'm Ibrahim 👋
+### Welcome, I'm Ibrahim 👋
  
   * ✨ I lead AI and Innovations at [Gamol Studio](http://gamolstudio.com/).
   * ✍ Documentaing my Tech Superstar Journey [here](https://ibrahimgbadegesin.blogspot.com/).
