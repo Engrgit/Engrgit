@@ -4,7 +4,7 @@
   * ✍ Write tech exploits through [the diary of a tech superstar](https://ibrahimgbadegesin.blogspot.com/)
   * 🗣️ Speak on tech innnovations in Africa via [Twitter](https://twitter.com/Engrgit)
   * 💡 Interract with customers/supporters via [Instagram](https://www.instagram.com/engrgit/)
-  * ▶️ Evangelising [Checkoja App](https://play.google.com/store/apps/details?id=com.checkoja.checkojaapp)
+  * ▶️ Currently evangelising [Checkoja App](https://play.google.com/store/apps/details?id=com.checkoja.checkojaapp)
 
     
 
