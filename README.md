@@ -1,10 +1,10 @@
 ### Hi, I'm Ibrahim 👋
  
   * ✨ I lead AI and Innovations at [Gamol Studio](http://gamolstudio.com/)
-  * ▶️ Digitalising local markets in Africa with [Checkoja App](https://play.google.com/store/apps/details?id=com.checkoja.checkojaapp)
   * ✍ Write tech exploits via [the diary of a tech superstar](https://ibrahimgbadegesin.blogspot.com/)
   * 🗣️ Speak on tech innnovations in Africa via [Twitter](https://twitter.com/Engrgit)
   * 💡 Interract with customers/supporters via [Instagram](https://www.instagram.com/engrgit/)
+  * ▶️ Download [Checkoja App](https://play.google.com/store/apps/details?id=com.checkoja.checkojaapp)
 
     
 
