@@ -1,9 +1,9 @@
 ### Hi, I'm Ibrahim 👋
  
   * ✨ I lead AI and Innovations at [Gamol Studio](http://gamolstudio.com/)
-  * ✍ Document my tech journey [here](https://ibrahimgbadegesin.blogspot.com/)
-  * 🗣️ Share opinions [here](https://twitter.com/Engrgit)
-  * 💡 Socialise [here](https://www.instagram.com/engrgit/)
+  * ✍ Documenting tech with my [blog](https://ibrahimgbadegesin.blogspot.com/)
+  * 🗣️ Contribute to global conversations [here](https://twitter.com/Engrgit)
+  * 💡 Socialise with supporters [here](https://www.instagram.com/engrgit/)
   * ▶️ Digitalising local markets in Africa with with [Checkoja App](https://play.google.com/store/apps/details?id=com.checkoja.checkojaapp)
     
 
