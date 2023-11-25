@@ -3,7 +3,7 @@
   * ✨ I lead AI and Innovations at [Gamol Studio](http://gamolstudio.com/)
   * ✍ Share tech exploits via [the diary of a tech superstar](https://ibrahimgbadegesin.blogspot.com/)
   * 🗣️ Contribute to tech conversations via [Twitter](https://twitter.com/Engrgit)
-  * 💡 Connecting with tech customers/supporters on [Instagram](https://www.instagram.com/engrgit/)
+  * 💡 Interact with tech customers/supporters on [Instagram](https://www.instagram.com/engrgit/)
   * ▶️ Digitalising local markets in Africa with [Checkoja App](https://play.google.com/store/apps/details?id=com.checkoja.checkojaapp)
     
 
