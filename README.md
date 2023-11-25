@@ -1,7 +1,7 @@
 ### Hi, I'm Ibrahim 👋
  
   * ✨ I lead AI and Innovations at [Gamol Studio](http://gamolstudio.com/)
-  * ✍ I write tech exploit through [the diary of a tech superstar](https://ibrahimgbadegesin.blogspot.com/)
+  * ✍ I document my tech journey through [the diary of a tech superstar](https://ibrahimgbadegesin.blogspot.com/)
   * 💡 [Engrgit](https://www.instagram.com/engrgit/) is my world-class brand.
   * ▶️ I am building [Checkoja App](https://play.google.com/store/apps/details?id=com.checkoja.checkojaapp) with AI
 
