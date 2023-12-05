@@ -1,7 +1,8 @@
 ### Hi, I'm Ibrahim 👋
  
   * ✨ I lead AI and Innovations at [Gamol Studio](http://gamolstudio.com/)
-  * ✍ See [Research Blog](https://ibrahimgbadegesin.blogspot.com/) and [innovations](https://www.instagram.com/engrgit/)
+  * ✍ Documenting at [Diary of a tech Superstar](https://ibrahimgbadegesin.blogspot.com/)
+  * 💡 Branding and [innovations](https://www.instagram.com/engrgit/)
   * ▶️ Currently building [checkoja](https://checkoja.blogspot.com/) in Africa
 
     
