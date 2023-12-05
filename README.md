@@ -2,7 +2,7 @@
  
   * ✨ I lead AI and Innovations at [Gamol Studio](http://gamolstudio.com/)
   * ✍ Documenting at [Diary of a tech Superstar](https://ibrahimgbadegesin.blogspot.com/)
-  * 💡 Branding and [innovations](https://www.instagram.com/engrgit/)
+  * 💡 Interacting with my [community](https://www.instagram.com/engrgit/)
   * ▶️ Currently building [checkoja](https://checkoja.blogspot.com/) in Africa
 
     
