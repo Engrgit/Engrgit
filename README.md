@@ -2,7 +2,7 @@
  
   * ✨ I lead AI and Innovations at [Gamol Studio](http://gamolstudio.com/)
   * ✍ I publish my research [here](https://ibrahimgbadegesin.blogspot.com/)
-  * 💡 I share tech innovations [here(https://www.instagram.com/engrgit/)
+  * 💡 I share tech innovations [here](https://www.instagram.com/engrgit/)
   * ▶️ Currently building [checkoja](https://checkoja.blogspot.com/) in Africa
 
     
