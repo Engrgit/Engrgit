@@ -13,3 +13,5 @@ I'm best reached via email. I'm always open to interesting conversations and col
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/Engrgit?label=Follow&style=social)](https://twitter.com/Engrgit)
 
+[![Medium Follow](https://img.shields.io/medium/follow/Engrgit?label=Follow&style=social)](https://medium.com/Engrgit)
+
