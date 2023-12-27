@@ -1,4 +1,4 @@
- ![Engrgit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=engrgit&show_icons=true&theme=radical)  
+ [Engrgit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=engrgit&show_icons=true&theme=radical)  
 
 
 ### Hi, I'm Ibrahim 👋
