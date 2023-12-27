@@ -1,6 +1,3 @@
- [Engrgit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=engrgit&show_icons=true&theme=radical)  
-
-
 ### Hi, I'm Ibrahim 👋
  
   * ✨ I lead AI and Innovations at [Gamol Studio](http://gamolstudio.com/)
