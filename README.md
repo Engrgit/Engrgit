@@ -9,7 +9,9 @@
 
 I'm best reached via email. I'm always open to interesting conversations and collaboration.
 
- 
+ ![Engrgit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=engrgit&show_icons=true&theme=radical)  
+
+
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/Engrgit?label=Follow&style=social)](https://twitter.com/Engrgit)
 
