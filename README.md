@@ -1,4 +1,6 @@
+
 ### Hi, I'm Ibrahim 👋
+
  
   * ✨ I lead AI and Innovations at [Gamol Studio](http://gamolstudio.com/)
   * ✍ Author of [The Diary of a Tech Superstar](https://ibrahimgbadegesin.blogspot.com/)
