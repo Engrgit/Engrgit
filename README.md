@@ -5,7 +5,7 @@
   * ✨ I lead AI and Innovations at [Gamol Studio](http://gamolstudio.com/)
   * ✍ Author of [The Diary of a Tech Superstar](https://ibrahimgbadegesin.blogspot.com/)
   * ✨ Ambassador of [engrgit](https://www.instagram.com/engrgit/) brand
-  * ▶️ Currently building [checkoja](https://checkoja.com/) in Africa
+  * ▶️ Currently building [checkoja](https://checkoja.com.blogspot.com/) in Africa
 
     
 
